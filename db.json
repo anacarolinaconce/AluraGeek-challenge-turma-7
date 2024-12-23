@@ -1,0 +1,71 @@
+
+{
+  "products": [
+    {
+      "name": "Vestido AZUL",
+      "price": "150",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7ij9Y9JKjm4hGwhjSY0OXjwALva2aQMnVg&s",
+      "id": 1
+    },
+    {
+      "name": "Vestido Branco",
+      "price": "75",
+      "image": "https://images.tcdn.com.br/img/img_prod/798207/vestido_nathalia_tricoline_algodao_com_renda_e_botoes_off_white_3175_1_7a3e55e13d421c3958f78fb2ec8a9ff7.jpg",
+      "id": 2
+    },
+    {
+      "name": "Vestido branco e laranja",
+      "price": "135",
+      "image": "https://imbifashion.com/cdn/shop/products/S3f0f0f54168b4487a7c4131aa332ef36B.jpg?v=1658425689",
+      "id": 3
+    },
+    {
+      "name": "Vestido rosa",
+      "price": "145",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBKlQ8fTRRw3HhwkeX3vR7NT-38uIAaTppAg&s",
+      "id": 5
+    },
+    {
+      "name": "Vestido Branco floral",
+      "price": "120",
+      "image": "https://img.irroba.com.br/fit-in/960x1200/filters:fill(fff):quality(80)/believed/catalog/vestido-florido-frente-unica-frente2.jpg",
+      "id": 6
+    },
+    {
+      "name": "Vestido verde",
+      "price": "150",
+      "image": "https://images.tcdn.com.br/img/img_prod/798207/vestido_jana_de_laise_fluido_com_manga_e_rendas_verde_3195_1_9f8a20fb7ce81f22672cea3ed64f9469.jpg",
+      "id": 7
+    },
+    {
+      "name": "Vestido jeans",
+      "price": "135",
+      "image": "https://images.tcdn.com.br/img/img_prod/775846/vestido_jeans_midi_justo_1135_1_8477d28bae048300357cdd8cf8a6efa0.jpg",
+      "id": 8
+    },
+    {
+      "name": "Vestido floral colorido",
+      "price": "120",
+      "image": "https://img.joomcdn.net/1f8786102735186a45bff65563469ab28d5836bc_original.jpeg",
+      "id": 9
+    },
+    {
+      "name": "Vestido floral verde",
+      "price": "120",
+      "image": "https://static.ecosweb.com.br/public/produtos/moda-feminina/vestido-longo/vestido-camadas-floral-verde-moda-evangelica_337937_301_1.webp",
+      "id": 10
+    },
+    {
+      "name": "Vestido roxo curto",
+      "price": "150",
+      "image": "https://images.tcdn.com.br/img/img_prod/708130/vestido_midi_gode_fucsia_acompanha_cinto_2023_1_28ef3071bd06b50a9e1545334889fcb1.jpg",
+      "id": 11
+    },
+    {
+      "name": "Vestido preto cereja",
+      "price": "110",
+      "image": "https://images.tcdn.com.br/img/img_prod/713055/vestido_cereja_manga_bufante_1633_5_31abeeb09d10ecd0e5d5a138a1bcd746.jpg",
+      "id": 12
+    }  
+  ]
+}

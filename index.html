@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="styles/reset.css">
+	<link rel="stylesheet" href="styles/style.css">
+	<title>Carol Store</title>
+</head>
+<body>
+	 <!-- Cabeçalho -->
+	 <header >
+        <div class="header">
+        <img src="./assets/logo.png"/>
+        <h1>Carol Store</h1>
+        </div>
+    </header>
+
+    <!-- Container principal -->
+    <main class="container-principal">
+        <section>
+            <h1>Meus Produtos:</h1>
+            <div data-product class="container-produtos"></div>
+        </section>
+
+        <!-- Seção de adicionar produtos -->
+        <section>
+            <h1>Adicionar Produto:</h1>
+
+            <!-- Formulário para adicionar produtos -->
+            <form class="container-formulario" data-form>
+                <input data-name placeholder="nome..." type="text">
+                <input data-price placeholder="preço..." type="text">
+                <input data-image placeholder="imagem..." type="text">
+                <span data-mensagem class="mensagemErro"></span>
+                <div class="container-botoes">
+                    <button type="submit" class="botao-enviar" id="botao">Enviar...</button>
+                    <button type="reset" class="botao-limpar" id="botao">Limpar...</button>
+                </div>
+            </form>
+            
+        </section>
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="container-rodape">
+        <p> Desenvolvido por Ana Carolina</p>
+        <small>Alura Latam 2024</small>
+    </footer>
+	<script type="module" src="js/controllers/main.js"></script>
+</body>
+</html>
